@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/divyans98661375" target="blank"><img src="https://img.shields.io/twitter/follow/divyans98661375?logo=twitter&style=for-the-badge" alt="divyans98661375" /></a> </p>
 
-- 🌱 I’m currently learning **JavaScript with its libraries and Frameworks**
+- 🌱 I’m currently learning **JavaScript with its libraries and frameworks**
 
 - 💬 Ask me about **Java**
 
